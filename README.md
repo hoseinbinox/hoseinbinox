@@ -14,17 +14,17 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Interested in technology and software
-- 🎮 Enjoy gaming and exploring new communities
-- 🌱 Always learning new things
-- ⚡ Creating and discovering interesting projects
+- 💻 Interested in technology
+- 🎮 Enjoy gaming and online communities
+- 🌱 Learning new things
+- ⚡ Exploring different tools and ideas
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tools & Interests
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,lua,js,html,css,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=windows,github,vscode" />
 </p>
 
 ---
