@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋 I'm Binox
+</h1>
 
-<!--
-**hoseinbinox/hoseinbinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Exploring technology and new ideas
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Technology+%26+Gaming;Always+learning+new+things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💻 Interested in technology and software
+- 🎮 Enjoy gaming and exploring new communities
+- 🌱 Always learning new things
+- ⚡ Creating and discovering interesting projects
+
+---
+
+## 🛠️ Skills & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,lua,js,html,css,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 🎮 Discord
+
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/901430684709703731" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hoseinbinox&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoseinbinox&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=hoseinbinox&style=flat-square">
