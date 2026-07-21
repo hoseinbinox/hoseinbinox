@@ -43,7 +43,7 @@
 ## 🎮 Discord Presence
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/901430684709703731" />
+<img src="https://lanyard.cnrad.dev/api/901430684709703731?theme=dark&bg=1a1b27&borderRadius=15px&animated=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
