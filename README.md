@@ -35,8 +35,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mysql,docker,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
@@ -52,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoseinbinox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hoseinbinox&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=hoseinbinox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hoseinbinox&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
