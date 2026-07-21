@@ -1,12 +1,9 @@
-<h1 align="center">
-  Hi 👋 I'm Binox
-</h1>
-<h3 align="center">
-  Exploring technology and new ideas
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Binox&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Exploring%20technology%20and%20new%20ideas&descAlignY=55&descSize=18" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Technology+%26+Gaming;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Technology+%26+Gaming;Always+learning+new+things" />
 </p>
 
 <p align="center">
@@ -16,9 +13,12 @@
   <a href="https://github.com/hoseinbinox">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://komarev.com/ghpvc/?username=hoseinbinox">
+    <img src="https://img.shields.io/badge/Profile_Views-blueviolet?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -29,15 +29,17 @@
 - ⚡ Exploring different tools and ideas
 - 📫 Reach me on Discord (see widget below)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tools & Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux,github,git,vscode,html,css,js,python,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mysql,docker,figma&theme=dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🎮 Discord Presence
 
@@ -45,12 +47,12 @@
 <img src="https://lanyard.cnrad.dev/api/901430684709703731" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoseinbinox&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoseinbinox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hoseinbinox&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -58,7 +60,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoseinbinox&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -66,7 +68,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=hoseinbinox&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 📈 Contribution Graph
 
@@ -74,10 +76,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinbinox&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-## 👀 Profile Views
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hoseinbinox&style=flat-square&color=blueviolet">
+  <img src="https://raw.githubusercontent.com/hoseinbinox/hoseinbinox/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
