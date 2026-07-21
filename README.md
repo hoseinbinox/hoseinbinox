@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=hoseinbinox&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-trophies.devomb.com/?username=hoseinbinox&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
