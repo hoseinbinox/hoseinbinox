@@ -43,8 +43,9 @@
 ## 🎮 Discord Presence
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/901430684709703731?theme=dark&bg=1a1b27&borderRadius=15px&animated=true" />
-</p>
+<a href="https://discord.com/users/901430684709703731">
+<img src="https://lanyard.cnrad.dev/api/901430684709703731?theme=dark&bg=1a1b27&borderRadius=15px&showDisplayName=true&idleMessage=Probably%20grinding%20in%20a%20game%20rn%20%F0%9F%8E%AE" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
